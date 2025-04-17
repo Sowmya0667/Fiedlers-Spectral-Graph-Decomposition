@@ -1,3 +1,3 @@
 # Fiedlers-Spectral-Graph-Decomposition
 
-<img src="images/image00" alt="IPL Visualization Screenshot" width="600"/>
+<img src="images/image00.png" alt="IPL Visualization Screenshot" width="600"/>
